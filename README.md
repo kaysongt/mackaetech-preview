@@ -1,2 +1,3 @@
-# mackaetech-preview
-Static preview of the Mackae Tech website
+# Mackae Tech website preview
+
+Static website preview. Online quote submissions are disabled.
